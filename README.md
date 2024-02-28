@@ -14,12 +14,12 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![header](https://capsule-render.vercel.app/api?type=soft&color=abd4f8&text=Welcome&fontColor=ffffff&alignment-baseline="middle"&fontAlign=50&fontAlignY=30&height=130&desc=LeeShinHaeng's%20GitHub&descAlign=50&descAlignY=70&)
+![header](https://capsule-render.vercel.app/api?type=soft&color=abd4f8&text=Welcome&fontColor=ffffff&alignment-baseline="middle"&fontAlign=50&fontAlignY=50&height=130&desc=LeeShinHaeng's%20GitHub&descAlign=50&descAlignY=80&)
 
 
 <div align="center">
 
-  ### 📚 Tech Stack 📚 </br
+  ### 📚 Tech Stack 📚
   #### 🔥 Mainly Use 🔥 </br>
   <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=Java&logoColor=white"/>
   <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=Spring&logoColor=white">
@@ -39,7 +39,8 @@ Here are some ideas to get you started:
   
   #### :pencil2: Study log </br>
   
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LeeShinHaeng&layout=compact)
+  
   ![LeeShinHaeng's GitHub stats](https://github-readme-stats.vercel.app/api?username=LeeShinHaeng&show_icons=true&theme=radical)
   
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LeeShinHaeng&layout=compact)
 </div>
