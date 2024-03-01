@@ -42,5 +42,10 @@ Here are some ideas to get you started:
   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LeeShinHaeng&layout=compact)
   
   ![LeeShinHaeng's GitHub stats](https://github-readme-stats.vercel.app/api?username=LeeShinHaeng&show_icons=true&theme=transparent)
-  
+
+
+  #### Velog </br>
+  [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api/badge?name=snhng)](https://velog.io/@snhng) 
+
+  [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=snhng)](https://github.com/LeeShinHaeng/velog-readme-stats)
 </div>
