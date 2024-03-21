@@ -56,7 +56,7 @@ Here are some ideas to get you started:
 
 
 ####  📝 Certificate 📝 </br>
-- SQLD : 2023/04/14
-- CSTS-일반 : 2023/03/18
+SQLD : 2023/04/14 </br>
+CSTS-일반 : 2023/03/18
 
 </div>
