@@ -31,6 +31,7 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/androidstudio-3DDC84?style=for-the-badge&logo=android&logoColor=white"/>
   <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/aws-232F3E?style=for-the-badge&logo=Amazon aws&logoColor=white">
+  <img src="https://img.shields.io/badge/c-A8B9CC?style=for-the-badge&logo=c&logoColor=white">
   </br>
   <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white">
   <img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
@@ -52,5 +53,10 @@ Here are some ideas to get you started:
   [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api/badge?name=snhng)](https://velog.io/@snhng) 
 
   [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api/list?name=snhng)](https://velog.io/@snhng) 
+
+
+####  📝 Certificate 📝 </br>
+- SQLD : 2023/04/14
+- CSTS-일반 : 2023/03/18
 
 </div>
