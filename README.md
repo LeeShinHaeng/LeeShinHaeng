@@ -28,7 +28,6 @@ Here are some ideas to get you started:
   <br/><br/>
 
   #### 📄 At Least Once 📄</br>
-  <img src="https://img.shields.io/badge/androidstudio-3DDC84?style=for-the-badge&logo=android&logoColor=white"/>
   <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/aws-232F3E?style=for-the-badge&logo=Amazon aws&logoColor=white">
   <img src="https://img.shields.io/badge/c-A8B9CC?style=for-the-badge&logo=c&logoColor=white">
@@ -40,6 +39,12 @@ Here are some ideas to get you started:
   #### 🛠 Tools 🛠</br>
   <img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white">
   <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white"> </br>
+
+  <img src="https://img.shields.io/badge/intellij-000000?style=for-the-badge&logo=intellij%20idea&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Eclipse%20IDE-2C2255?style=for-the-badge&logo=EclipseIDE&logoColor=white" /></br>
+  <img src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=for-the-badge&logo=VisualStudioCode&logoColor=white" />
+  <img src="https://img.shields.io/badge/androidstudio-3DDC84?style=for-the-badge&logo=android&logoColor=white"/> 
+  </br>
   
   
   #### :pencil2: Study log :pencil2: </br>
