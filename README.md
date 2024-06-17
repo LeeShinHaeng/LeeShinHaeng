@@ -60,8 +60,12 @@ Here are some ideas to get you started:
   [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api/list?name=snhng)](https://velog.io/@snhng) 
 
 
-####  📝 Certificate 📝 </br>
+####  📝 Certificate & Awards 🏅 </br>
 SQLD : 2023/04/14 </br>
 CSTS-일반 : 2023/03/18
+</br></br>
+경기대학교 캡스톤디자인 경진대회 은상 (2024/06/07)</br>
+TOPCIT : 592/1000 (2024/05/18)
+
 
 </div>
