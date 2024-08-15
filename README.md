@@ -46,15 +46,8 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/androidstudio-3DDC84?style=for-the-badge&logo=android&logoColor=white"/> 
   </br>
   
-  
-  #### :pencil2: Study log :pencil2: </br>
-  
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LeeShinHaeng&layout=compact)
-  
-  ![LeeShinHaeng's GitHub stats](https://github-readme-stats.vercel.app/api?username=LeeShinHaeng&show_icons=true&theme=transparent)
 
-
-  #### ✌️ Velog ✌️ </br>
+  ### ✌️ Velog ✌️ </br>
   [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api/badge?name=snhng)](https://velog.io/@snhng) 
 
   [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api/list?name=snhng)](https://velog.io/@snhng) 
@@ -69,5 +62,11 @@ CSTS-일반 (2023/03/18)
 
 ####  📧 Contact 🖐️ </br>
 email : dragon11796@gmail.com
+
+  
+  #### :pencil2: Study log :pencil2: </br>
+  
+  ![LeeShinHaeng's GitHub stats](https://github-readme-stats.vercel.app/api?username=LeeShinHaeng&show_icons=true&theme=transparent)
+
 
 </div>
